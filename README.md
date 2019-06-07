@@ -1,5 +1,5 @@
 # pyrdp
-Python implementation of a recursive descent parser to parse mathematical expressions. 
+Python implementation of a recursive descent parser for mathematical expressions.
 
 The production rules used by pyrdp:
 
