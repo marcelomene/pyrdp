@@ -1,7 +1,7 @@
 # pyrdp
-Python implementation of a recursive descent parser for mathematical expressions.
+Implementação em Python de um analisador descendente recursivo para expressões matemáticas.
 
-The production rules used by pyrdp:
+As regras de produção usadas pelo pyrdp:
 
 **E**  -> T E'
 
@@ -17,10 +17,10 @@ The production rules used by pyrdp:
 
 **F**  -> (E) | id
 
-Code presented as final work of Formal Languages and Automata discipline of Computer Science course.
+Código apresentado como trabalho final da disciplina Linguagens Formais e Autômatos do curso de Ciência da Computação.
 
-# Usage
-Example of valid inputs:
+# Uso
+Exemplo de entradas válidas:
 
 - "2*2+2"
 
